@@ -10,4 +10,4 @@
   - What’s going on with the salaries?
   - Why are there only five active managers for nine departments?
   - Why are some employees appearing twice?
-Our next step is to go even further to shorten the list. The amount of employees who will be retiring soon is significant. Some suggestions would be partial or phased retirement. It can reduce stress and increase job satisfaction. It can provide the worker with an opportunity to benefit from being a part of a work team. For the employers it can provide a cost-effective opportunity to retain people with value. 
+- Our next step is to go even further to shorten the list. The amount of employees who will be retiring soon is significant. Some suggestions would be partial or phased retirement. It can reduce stress and increase job satisfaction. It can provide the worker with an opportunity to benefit from being a part of a work team. For the employers it can provide a cost-effective opportunity to retain people with value. 
